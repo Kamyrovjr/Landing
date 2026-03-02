@@ -48,7 +48,6 @@ export default function Advantages() {
               className="group relative rounded-3xl border border-white/10 bg-white/5 p-7 backdrop-blur
                          hover:border-white/20 transition"
             >
-              {/* glow */}
               <div
                 className="pointer-events-none absolute inset-0 rounded-3xl opacity-0 blur-2xl
                            group-hover:opacity-100 transition
